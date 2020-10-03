@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "95751556857",
+    "firebase_url": "https://testlap-4d5ba.firebaseio.com",
+    "project_id": "testlap-4d5ba",
+    "storage_bucket": "testlap-4d5ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95751556857:android:2a42de3fdfb1bd898d9c28",
+        "android_client_info": {
+          "package_name": "com.example.testlap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95751556857-4vj57oltag4vite4gcrgl0vef4bpugli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ3V64EF7csfsCAn6qtdz3S8o9NY0wESM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95751556857-4vj57oltag4vite4gcrgl0vef4bpugli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
